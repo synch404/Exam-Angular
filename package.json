@@ -1,0 +1,19 @@
+{
+  "name": "angular-news",
+  "version": "1.0.0",
+  "description": "Angular Backend for short test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "news"
+  ],
+  "author": "Sergiu Gordienco",
+  "license": "ISC",
+  "dependencies": {
+    "loopback-cli": "^4.2.0",
+    "loopback-connector-mysql": "^5.2.0"
+  }
+}

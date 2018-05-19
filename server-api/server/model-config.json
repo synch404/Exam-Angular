@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "user": {
+    "dataSource": "angular-news",
+    "public": true
+  },
+  "chanel": {
+    "dataSource": "angular-news",
+    "public": true
+  },
+  "article": {
+    "dataSource": "angular-news",
+    "public": true
+  }
+}

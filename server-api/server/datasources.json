@@ -1,0 +1,12 @@
+{
+  "angular-news": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "angular-news",
+    "password": "UTMfcim.2018@",
+    "name": "angular-news",
+    "user": "peco-user",
+    "connector": "mysql"
+  }
+}
